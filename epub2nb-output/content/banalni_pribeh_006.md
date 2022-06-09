@@ -3,8 +3,6 @@ title: '1'
 contentType: prose
 ---
 
-  
-
 Naše příběhy jsou v nás zakódovány jako v semínku strom – ale příčiny, jež nás uvádějí do pohybu, mívají svůj počátek mimo nás…
 
 Podobně příběh Evy začíná poměrně daleko: kdesi mezi Ukrajinou a Rumunskem. Tam je malá země, a tam, za městem, kde už jsou jen pastviny a pole, stojí malé domky a kolem nich stodoly a chlévy. V takovém domku se teď krčí a strachy k sobě tiskne početná rodina. Čeká vymahače dluhů. Mají vrátit peníze – ale jak a z čeho, když jim samotným za mléko a sýry nikdo neplatí? Vezmou si tovar, ale řeknou: teď nemáme, počkej týden. A za týden: počkej měsíc. A za měsíc: počkej půl roku. A to už hospodář v noci nespí a celý se chvěje, protože sám nemá, čím by rodinu nakrmil, neví, čím by dobytek nakrmil, jak z dlužníků peníze vydobýt, a tím pádem čím svůj dluh zaplatit. Protože Jemu nikdo nepočká. A proč by mu čekali, když zárukou je pole a dům? A proč by mu za mléko a sýry platili, když odkupující mlékárna patří témuž bossovi, který mu půjčil do začátku? Takový hospodář pak končí na ulici i s rodinou – a jsou-li všichni naživu, může mluvit o štěstí: protože zvykem bossů bývá od rodiny odlákat plnoleté syny nebo je pozabíjet. Tak se to děje podle zákona, neboť zákony to v té zemi dovolují – a pokud ne, stejně je nikdo nectí, a kdyby ctil, se zlým se potáže, neboť zákonem v té zemi je vůle silnějšího.

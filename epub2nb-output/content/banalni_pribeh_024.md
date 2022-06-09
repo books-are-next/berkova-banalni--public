@@ -3,8 +3,6 @@ title: '19'
 contentType: prose
 ---
 
-  
-
 První cesta vede do kavárny. Boris Evu obřadně dovede až k jejímu stolku, omluví se a jde na toaletu. Eva usedá a oknem sleduje téměř totožnou scenerii jako kdysi: tentokrát ale zaostřuje na ukrajinské kopáče. Pak se odkloní od okna, protože vzadu je mírný rozruch: číšník umravňuje Borise, který vyšel z WC, že tady nejsou žádné veřejné toalety…!
 
 Boris, aniž hne brvou, ukazuje, že jde ke stolku – takže je host. Číšník dává pohledem výmluvně najevo, jak o novém hostu z Východu smýšlí. Eva si toho všimla a zasahuje slovy: „Ten pán je tu se mnou!“ Číšník nepadl na kolena a nežádal odpuštění – naopak: ledově se usmál, trochu ironicky se omluvil: „Tak to pardon!“ – a zařadil Evu na společenském žebříčku o pár pater níž. Je jasné, že tady veselo nebude. Boris usedá a sundává si své nemožné kostkované sako. Eva objednává dvakrát vídeň.

@@ -3,8 +3,6 @@ title: '24'
 contentType: prose
 ---
 
-  
-
 Boris se zatím doma snaží; dobře ví, co to všechno obnáší, a tak něco natírá, přitlouká nebo vylepšuje, aby to nevypadalo, že se fláká. Eva předčítá seznam nutností:
 
 „Občanský průkaz nebo platný pas – to máme, vízum, to nemáme, rodný list, máme, čestné prohlášení o ubytování, máme, výpis z trestního rejstříku, máme…“

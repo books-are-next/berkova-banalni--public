@@ -3,8 +3,6 @@ title: '13'
 contentType: prose
 ---
 
-  
-
 Eva je s Borisem na procházce. Co si budem nalhávat: mají k sobě blízko: Eva nevypadá nijak zvlášť, ale oči má samým vděkem vlahé. Boris se vyfikl: je vymydlený, učesaný, má jakési – ne zrovna módní – tmavé kalhoty, zřejmě od obleku – ale to mu promineme, protože mu dokonale padnou a spolu s černým tričkem vykreslují sošnou figuru sportovce: pevný zadek, štíhlý pas, široký hrudník a pevná ramena; vypadá stabilně a silně, což v beztvarých montérkách s laclem nebylo vidět.
 
 Procházejí se večerním parkem. Eva sotva jde – Boris se ji snaží bavit, ale Eva by mu nejradši položila hlavu na rameno a zůstala tak několik let.

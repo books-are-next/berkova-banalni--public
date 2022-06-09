@@ -3,8 +3,6 @@ title: '23'
 contentType: prose
 ---
 
-  
-
 Znáte pohádku _O kohoutkovi a slepičce_? Jak slepička běhala a běhala, od čerta k ďáblu a zase zpět, aby zachránila svého kohoutka, který tam leží v komoře, nožky má nahoře, bojí se, bojí, že umře…?
 
 Jak sehnat vízum? Zevnitř republiky to není možné: Eva zná jen lidi, kteří patří k jejímu světu nad vodou, kteří něco takového nikdy nepotřebovali. Jenže spousta lidí jako Vietnamci, Ukrajinci, Rusové – a že je jich tu jak máku – zřejmě tenhle Rubikon překročili: oni všechny ty potřebné papíry mají – jak to? Inu – sehnali si to. Ale jak? To jsou cesty pololegální, neoficiální – a chce to peníze, peníze, peníze… A není třeba ani dokumenty falšovat – stačí sehnat někoho, kdo místo Borise odjede, zajistí vízum a s dokladem se vrátí. Ovšem na to je třeba hodně peněz. Desetitisíce? – ne: statisíce. Kdyby měla statisíce, nemusí ani běhat po úřadech. Všechno za ni někdo vyřídí: firma. Oficiální firma se sídlem na Václavském náměstí. Jenže Eva má sotva na tramvaj: platí nájem, jídlo, telefony, cigarety – a Boris pořád telefonuje a hulí jako komín – a ve škole si k Pavlině radosti snížila úvazek, aby měla čas na překlady. A všechny zásoby vyschly. Na zařízení bytu si vzala půjčku – něco si půjčila od rodičů – a splácí z toho ničeho, co má. Boris se v té sociální bezmoci cítí mizerně, ale ovládá se, protože ví, že Eva musí vydržet. A Eva se na své pouti pro kohoutka potkává s větami, které by nečekala:

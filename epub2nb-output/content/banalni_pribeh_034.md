@@ -3,8 +3,6 @@ title: '29'
 contentType: prose
 ---
 
-  
-
 Eva sedí s Pavlou u kafe, má červené oči.
 
 Pavla je oblečená za dámu, s mírným opovržením se rozhlíží kolem: fyzicky je tu poprvé, v tomhle bytě starých začátečníků… Eva vypadá, že se sesýpá sama do sebe, Pavla se snaží o formální účast, ale uvnitř zívá:

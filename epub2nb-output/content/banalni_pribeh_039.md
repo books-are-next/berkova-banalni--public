@@ -3,8 +3,6 @@ title: '34'
 contentType: prose
 ---
 
-  
-
 Eva jede v autě s Pavlou. Je to Pavlino auto a Pavla řídí; podle talis­manu na zrcátku a detailů a hračiček na palubní desce vidíme, že je to auto milované ženou.
 
 Pavla jede svižně: sedí pevně za volantem svého vozu na dráze svého života, která má jasný směr a cíl. Je dokonale oblečená, dokonale nalíčená, cítí se fajn. Eva vedle ní vypadá trošku jako chytrá horákyně či dalajlamova ctitelka: ale cítí se taky fajn. Pavla drmolí s pohledem na talisman:

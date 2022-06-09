@@ -3,8 +3,6 @@ title: '8'
 contentType: prose
 ---
 
-  
-
 Náměstí. Ne nepodobné Rynku světa, jak ho známe od Komenského: radnice, tři hospody, stánky, krámky v podloubí, trhovci, nakupující.
 
 Před obchodem cikánská matka s miminem v náručí posílá další čtyři děti krást: pracují v týmu: jedno u kasy sleduje, kam dává platící peněženku, druhé strkáním a překážením odvádí pozornost, zatímco třetí najisto hrábne do tašky.

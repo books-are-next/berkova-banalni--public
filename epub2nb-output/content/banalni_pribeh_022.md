@@ -3,8 +3,6 @@ title: '17'
 contentType: prose
 ---
 
-  
-
 V původním bytě je všechno vzhůru nohama: Eva nakládá věci do krabic, Pavla probírá stohy knih na podlaze a vybírá si, co zabere pro sebe a co do školní knihovny – hrůza, co knih člověk posbírá! – Boris v pozadí vrší, nakládá a tahá bedny, které připravuje na ranní stěhování.
 
 „A co tohle?“

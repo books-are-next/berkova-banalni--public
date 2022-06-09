@@ -3,8 +3,6 @@ title: '25'
 contentType: prose
 ---
 
-  
-
 A maraton pokračuje.
 
 Matrikářka: „Ale tady to máte přeložený azbukou – a tady latinkou – tohle je taky špatně přeložený, a tohle taky – to se musí znovu ověřit…“

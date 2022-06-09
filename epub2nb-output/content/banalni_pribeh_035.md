@@ -3,8 +3,6 @@ title: '30'
 contentType: prose
 ---
 
-  
-
 Je večer. Po Pavlině návštěvě to Evu znovu vytáhlo ven. Zas bloudila ulicemi a ptala se duše, kudy a kam má jít. Teď chodí sem a tam jakýmsi parkem; to není jakýsi park: to je ten park, kam ji Boris tehdy vzal. Eva přechází chaoticky sem a tam jakoby bez duše, ale my už víme, že je vedena duší, protože vidíme, co ona nevidí: že jde už podruhé kolem místa, kde Boris tehdy nasával pozitivní energii stromů, kolem lavičky, kde teď s rancem sedí a sleduje ji, jak jde kolem něj: upřeným pohledem a rukama sepjatýma se snaží čarovat, jako tehdy na lešení: silou své mysli se snaží Evu otočit zpět, aby se vrátila, a posiluje své přání slovy:
 
 „Vozvratis – vratis nazad! Idi sem! Ku mně!“
