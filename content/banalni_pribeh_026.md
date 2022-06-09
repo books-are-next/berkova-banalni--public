@@ -3,8 +3,6 @@ title: '21'
 contentType: prose
 ---
 
-  
-
 První krok na cestě, která se na startu zdála být kratší:
 
 Úředník na cizinecké policii má zřejmě nekonečnou trpělivost; u zaskleného okénka se tlačí Vietnamci s rodinami – hodiny čekání. Konečně je řada na Evě. Eva má dojem, jako ostatně každý začátečník, že její případ je speciální, úplně jiný než těch ostatních: je prostý, krystalicky čistý a bude hravě a elegantně vyřešen:

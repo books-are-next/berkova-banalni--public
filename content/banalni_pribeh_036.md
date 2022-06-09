@@ -3,8 +3,6 @@ title: '31'
 contentType: prose
 ---
 
-  
-
 Domácí pohoda; dcera a Boris hrajou šachy, vnučka se dívá, Eva sedí u notebooku a překládá nějaký škvár:
 
 „A jejich oči se setkaly – sakra – nevíte někdo, jak se jinak řekne, že se jejich oči setkaly?“

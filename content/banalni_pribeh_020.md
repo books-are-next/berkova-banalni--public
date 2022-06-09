@@ -3,8 +3,6 @@ title: '15'
 contentType: prose
 ---
 
-  
-
 Samota není tak strašná jako ten strach z ní; ani rozvod není tak strašný jako ten strach z něj. A pak to odvykání starým poutům. Ač těsná a škrtící, přece jen vrostla do těla a stala se námi. Takže oddělování se od letitých pout je příjemné asi jako sundávání sádry: hůř – jako amputace; jakkoli víme, že je nutná, že zachraňuje zbytek organismu, přece jen je to řez do těla; je to šok, bolí to a hojí se dlouho; je to změna, s níž je třeba se vyrovnat jako se zemětřesením.
 
 Eva s Jaromírem měli amputaci hladkou, rychlou, téměř elegantní. Soudkyně vyslechla zprávu o průběhu manželství i marných pokusech nějak to spravit – a na místě rozhodla. Nadiktovala patřičný dokument, navrhla vypustit lhůtu na odvolání, vydala dokument i notářsky ověřené kopie – a popřála oběma hezký zbytek života.

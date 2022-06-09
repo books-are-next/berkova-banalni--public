@@ -3,8 +3,6 @@ title: '32'
 contentType: prose
 ---
 
-  
-
 Další události už mají spád, jako když se po nekonečně líné řece dostanete k vodopádu: tak dlouho jste na to čekali – a najednou vás to strhne: je nutné jednat rychle – na všechno jsou jen tři měsíce.
 
 Nakonec přece jen matrikářka, bděle kontrolující doklady, sklapne desky se slovy:

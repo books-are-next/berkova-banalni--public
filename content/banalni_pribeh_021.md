@@ -3,8 +3,6 @@ title: '16'
 contentType: prose
 ---
 
-  
-
 Eva je teď s dcerou na obhlídce nového bytu. Tedy – bytu: suterénní místnosti.
 
 Schody ke sklepu – za dveřmi tmavý prostor, špína, nějaké harampádí.

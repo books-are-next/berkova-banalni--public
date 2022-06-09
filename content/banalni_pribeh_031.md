@@ -3,8 +3,6 @@ title: '26'
 contentType: prose
 ---
 
-  
-
 Eva se vyčerpaná vrátila bez nálady: zas nějaké papíry scházejí, zas něco nevyšlo. Boris jí jde s otevřenou náručí vstříc, ale tentokrát je to vážné:
 
 „Proč nezvedáš telefony?“

@@ -3,8 +3,6 @@ title: '9'
 contentType: prose
 ---
 
-  
-
 Eva se malátně vrací do bytu. Rozhlíží se, jako by tu byla poprvé, odkládá svršky a pomalu se to v ní rozpouští: ví, že by měla dát věci i sebe do pořádku, ale nejde to – nejde to; občas něco vezme do ruky – a zase položí – nebo dá jinam – a pak zpět – svět se rozpadl na nespojité jednotliviny – nic s ničím nesouvisí a všemu konání schází odpověď na prostou otázku: „Proč?“
 
 Umejt se a jít si lehnout – a proč?

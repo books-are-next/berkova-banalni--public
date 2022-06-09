@@ -3,8 +3,6 @@ title: '20'
 contentType: prose
 ---
 
-  
-
 A už jsou v novém bytě: Eva trochu bezradně sedí na přistěhovaných bednách, Boris rázuje kolem, bdělýma očima registruje a na prstech počítá, co je třeba udělat. Eva se rezignovaně rozhlíží, a pak upře tázavý pohled na Borise, co jako tomu říká: úděs, co?
 
 Ten provádí inspekci zaujatě: prochází kolem zdí s přivřenýma očima a už si představuje, co kam přijde, co zbourat, co dostavět; pak se zastaví před Evou, uhladí jí vlasy a vezme její hlavu do dlaní:

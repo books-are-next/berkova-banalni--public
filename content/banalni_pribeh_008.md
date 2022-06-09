@@ -3,8 +3,6 @@ title: '3'
 contentType: prose
 ---
 
-  
-
 Evě je pětačtyřicet, ale to by jí nikdo nehádal: na první pohled vidíte, že se udržuje, cvičí a vůbec na sobě pracuje, takže každému je jasné, že to, co vidí, je žena mnohem, mnohem mladší.
 
 Eva má dceru a ta má taky dceru, takže ať se to bere odkudkoli, pořád vychází, že navzdory posilovnám, dietám a soláriu – Eva je babičkou. Svou sladkou vnučinku velmi miluje, s chutí ji očichává, lechtá, mačká a všelijak muchluje – ale to slovo vnučka jako by ji zvolna sunulo do hrobu.

@@ -9,14 +9,6 @@ contentType: prose
 
   
 
-  
-
-  
-
-  
-
-  
-
 Optimisté tvrdí, že Osud neexistuje; my sami jsme autory svých životů.
 
 Pesimisté se obávají, že je to pravda.

@@ -3,8 +3,6 @@ title: '10'
 contentType: prose
 ---
 
-  
-
 Je ráno. Časné ráno – začalo svítat. Eva se probouzí chladem: ležela nepřikrytá na posteli, s očima červenýma nevyspáním a pláčem – kolem roztrhané rodinné fotografie.
 
 Zvolna se zvedá, aby šla zavřít otevřené okno – a s mírným leknutím přitlumeného polovědomí najde na lešení ležet Borise, zabaleného v hadrech, obestavěného prkny, aby nespadl.

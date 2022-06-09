@@ -3,8 +3,6 @@ title: '4'
 contentType: prose
 ---
 
-  
-
 Eva veze Pavlu autem domů; ta se rozplývá nadšením. „Teda tohle mně se nikdy tak nepovede – jako tobě – ta atmosféra při tý Popelce – nabito – ticho jak v kostele…“
 
 „Co?“ Eva zřejmě dobře nerozuměla.

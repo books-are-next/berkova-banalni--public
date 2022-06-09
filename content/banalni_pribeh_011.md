@@ -3,8 +3,6 @@ title: '6'
 contentType: prose
 ---
 
-  
-
 Rodinná fotografie: Eva, manžel a dcera; šťastná rodina. Manžel je bohémsky vlasatý a objímá obě své ženy kolem ramen; Eva bere fotografii do rukou, jako by ji chtěla odprosit – jsou rozesmátí a opálení – tenkrát na horách: pamatuje se – žádná velká radost. Už spolu dlouho nespali, Eva navíc podrážděná, jak po Jaromírovi jede ta mladá instruktorka. Sošná a blbá. Blbá až k smíchu, nebýt toho, že se to Jaromírovi líbilo. Ta jeho ozářená přitroublost. Jeliman, utáhnutelný na vařené nudli. Takového troubu jsem si přece nebrala? Zaskočená Popelka zjišťuje, že princ se spokojí s kýmkoli, kdo mu lichotí. Co s tím? Myška něco vycítila, v noci plakala a chtěla domů… Eva se dívá na fotografii tří rozesmátých opálených lidí. U nezasvěceného by ta fotka mohla budit dojem štěstí… Fotografie jí v ruce vzplála a hoří – shořela na popel.
 
 Eva se s trhnutím probouzí: leží napříč přes postel, oblečená, bolí ji hlava. Jde si do kuchyně pro prášek: v pokoji míjí onu fotografii, která by mohla budit závist – a kterou ve snu viděla hořet; co s tím? Je půlnoc: měla by spát. Jenže jí vládne první signální soustava, veliká lítost, staré žaly a emoční turbulence, co s tím vším?
