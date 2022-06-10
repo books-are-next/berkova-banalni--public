@@ -3,6 +3,8 @@ title: '14'
 contentType: prose
 ---
 
+<section>
+
 Eva se rozhoduje, že to tak nenechá – že aspoň zkontroluje, jak to s těmi papíry je – aby se trochu revanšovala za Borisovo pochopení a podporu a vůbec. Aby narovnala křivý obraz své země. Aby – prostě – tohle se přece nedělá!
 
 Vydala se tedy s Borisem k jeho chlebodárcům. Byt slušně situo­ván, nikoli malý – ale neuvěřitelný brloh. Zastavěn harampádím z bazarů: povadlé masivní sedací soupravy, skříně, police, „stěny“ – a všude všechno: hadry, jak je kdo pohodil, špinavé nádobí od něčeho, co kdo právě snědl; špína na oknech, na podlaze, na nábytku, na různých přehozech s absurdními vzory – a na stole uprostřed místnosti krom nádobí a mísy s tabákem i veliká televize. Metráková matka za stolem je zhruba Evina věku, možná mladší, špinavá, při­ožralá, rozcuchaná, plní dutinky tabákem. Jedno z asi pěti přítomných dětí jde otevřít – Eva s Borisem se zastaví mezi dveřmi.
@@ -94,3 +96,5 @@ Eva se obrací k odchodu a je jí z toho všeho zle – Boris jí nabízí r
 Eva se chabě usměje.
 
 „Nu! Vot tak!“
+
+</section>

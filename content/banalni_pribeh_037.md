@@ -3,6 +3,8 @@ title: '32'
 contentType: prose
 ---
 
+<section>
+
 Další události už mají spád, jako když se po nekonečně líné řece dostanete k vodopádu: tak dlouho jste na to čekali – a najednou vás to strhne: je nutné jednat rychle – na všechno jsou jen tři měsíce.
 
 Nakonec přece jen matrikářka, bděle kontrolující doklady, sklapne desky se slovy:
@@ -84,3 +86,5 @@ Boris taky jako by nechápal. Evě zvoní mobil, je to Matka Mafie.
 „No podivejte se, tady Marková, já vás nechci nějak strašit nebo co, ale byli se tu na Borise ptát, ta cizinecká policie, tak já nevim, jak bysme to udělaly…“
 
 Evě chvilku trvá, než pochopí, že je to pokus o vydírání: potom se rozchechtá: „Víte co, pani Marková? Klidně ho práskněte, mě už ty jeho papíry nezajímají!“
+
+</section>

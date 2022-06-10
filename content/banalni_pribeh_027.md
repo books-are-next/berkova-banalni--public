@@ -3,6 +3,8 @@ title: '22'
 contentType: prose
 ---
 
+<section>
+
 Eva, daňový poplatník s problémy nad hladinou, poprvé vstoupila do absolutního jinde: do paralelního světa chudoby, pololegality a nekonečných potíží; jejími protihráči teď na dlouho budou policie a úřady. Vrací se ze své první mise zmožená – a ve dveřích zůstává paf: byt je uklizený a nově vyzdobený: kolem oken a dveří gestuálně, s živelnou chutí vyvedeny rostlinné ruské národní motivy; ve spodní části oken nalepeny umně prostřihané noviny místo záclon; interiér se velmi liší od reklamního modelu, jemuž se podobal její předcházející byt; tenhle prostor svou snaživou chudobou stále víc odpovídá nové sociální situaci: bezmocnému úsilí. Eva neví, jestli se má smát, nebo brečet: klesne na židli. Boris jí jde vstříc, odebírá tašky, pomáhá z bot a jako dítě se těší na ocenění svého výkonu:
 
 „Nu?“
@@ -98,3 +100,5 @@ Líbne ho na rameno, stočí se mu pod paži a zavře oči; Boris chvíli zír�
 „Jéva? Ja očeň šťastliv, što ja zděs. I ja očeň, očeň šťastliv, što těbja vstretil… I ja sdělaju vsjo, vsjo, štoby ty byla šťastliva i ulibalas – usmála…“
 
 „Dík!“ Eva se k němu přimkne; pevně se objímají, dva tonoucí, vědomi si závažnosti chvíle a svého setkání, které jako by zadunělo ze dna bytí, aby přehlušilo zmatenou, sytou, brebentivou mizerii všedního dne…
+
+</section>

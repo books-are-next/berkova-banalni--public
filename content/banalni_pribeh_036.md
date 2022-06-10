@@ -3,6 +3,8 @@ title: '31'
 contentType: prose
 ---
 
+<section>
+
 Domácí pohoda; dcera a Boris hrajou šachy, vnučka se dívá, Eva sedí u notebooku a překládá nějaký škvár:
 
 „A jejich oči se setkaly – sakra – nevíte někdo, jak se jinak řekne, že se jejich oči setkaly?“
@@ -40,3 +42,5 @@ Evě zvoní mobil:
 Mobil zvoní znova: „Jo – neboj… ano?? Jo, u telefonu – dobrý den – Ano!!! Jasně, budu tam!!“
 
 Otočí se k rodině: „Borisi, máš vízum na tři měsíce!“
+
+</section>

@@ -3,6 +3,8 @@ title: '4'
 contentType: prose
 ---
 
+<section>
+
 Eva veze Pavlu autem domů; ta se rozplývá nadšením. „Teda tohle mně se nikdy tak nepovede – jako tobě – ta atmosféra při tý Popelce – nabito – ticho jak v kostele…“
 
 „Co?“ Eva zřejmě dobře nerozuměla.
@@ -70,3 +72,5 @@ Jak se vracejí k autu, jejich dialog v dálce slábne, a jakkoli je pro ně 
 „Proboha, jeď!!“
 
 „Hele, to jsou ale krásný baráky! Na tohle ve školství nevyděláš…“
+
+</section>

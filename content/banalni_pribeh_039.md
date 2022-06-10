@@ -3,6 +3,8 @@ title: '34'
 contentType: prose
 ---
 
+<section>
+
 Eva jede v autě s Pavlou. Je to Pavlino auto a Pavla řídí; podle talis­manu na zrcátku a detailů a hračiček na palubní desce vidíme, že je to auto milované ženou.
 
 Pavla jede svižně: sedí pevně za volantem svého vozu na dráze svého života, která má jasný směr a cíl. Je dokonale oblečená, dokonale nalíčená, cítí se fajn. Eva vedle ní vypadá trošku jako chytrá horákyně či dalajlamova ctitelka: ale cítí se taky fajn. Pavla drmolí s pohledem na talisman:
@@ -48,3 +50,5 @@ Pavle na chvilku zkysne spotřební triumf – ale znovu se vzchopí:
 Dál jedou skoro mlčky. Eva pak vystoupí a jde k domu, kde bydlí. Bude se dít ještě hodně věcí: Boris se bude muset vypořádat s vymahačem z rodné Moldávie. Eva se vzdá své profese a odjedou na venkov. Boris bude muset přijmout, že Eva je pořád profesorka, i když sype slepicím. Eva bude muset přijmout, že Boris chce jíst u jednoho stolu. A mnoho jiného…
 
 Ale vsjo budět charašo…
+
+</section>

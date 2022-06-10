@@ -3,6 +3,8 @@ title: '26'
 contentType: prose
 ---
 
+<section>
+
 Eva se vyčerpaná vrátila bez nálady: zas nějaké papíry scházejí, zas něco nevyšlo. Boris jí jde s otevřenou náručí vstříc, ale tentokrát je to vážné:
 
 „Proč nezvedáš telefony?“
@@ -76,3 +78,5 @@ Boris položí ranec do rohu, vezme si cigarety a beze slova jde kouřit na cho
 Boris se pomalu a zachmuřeně vrací, prolistuje stoh rozjednaných dokumentů – opatrně oddělí z hromádky svoje originály, ve­zme si je, pak vyndá z kapsy klíče od bytu, položí je na stůl – a postojí nad Evou.
 
 Eva pod peřinou třeští oči, bojí se pohnout – doufá, že Boris přisedne k ní, že ji pohladí, něco jí řekne a bude zas dobře – že nějak zažehná tuhle situaci; slyší pohyby, ale neví, co se děje – čeká bez hnutí – ale Boris si vzal z věšáku svoje nemožné sako, poseděl po ruském způsobu, naposledy se rozhlédl – a odchází: Eva pod dekou slyší, jak klaply dveře, a pak je klid… Chvilku nehybně čeká – potom se opatrně zvedne – rozhlédne – a už začíná nabírat k pláči; ne, ještě tomu nevěří: jde na záchod, do koupelny – za dveře; nerozumí tomu – nechce rozumět. Pak zjistí, že sako zmizelo – a na stole jsou klíče. To je konec. Eva klesne na židli s hlavou v dlaních…
+
+</section>

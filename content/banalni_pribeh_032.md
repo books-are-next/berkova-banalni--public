@@ -3,6 +3,8 @@ title: '27'
 contentType: prose
 ---
 
+<section>
+
 Hledání. Mučivá činnost, kdy nejsme svými pány, protože naše kroky, činy a směr našich myšlenek určuje nepřítomnost něčeho – někoho, koho jsme měli nablízku, a teď tu není; ten, koho potřebujeme vidět, slyšet a vnímat, kdo nám chybí, po kom je tu prázdno…
 
 Eva si mockrát přála, aby už měla tuhle děsnou situaci za sebou: aby už přestaly ty šílené maratony a chudoba a stres; chtěla si taky užít trochu maloměšťáckého štěstí: jít do kina – svézt se taxíkem. Koupit si něco na sebe. Nepočítat dvacetníky v obchodech s potravinami. Nebo jet na dovolenou někam k moři… To všechno si občas přála, když se tísnila ve frontách před zavřenými úředními dveřmi, ale bylo to jen pomyšlení, takový úlet – nic vážného, vždyť tahounem mízy jí byl Boris a jeho „papíry“…
@@ -64,3 +66,5 @@ Eva bezradně vydechne: Matka zase lhala. Nebyl tu. Što dělať, řekl by Boris
 „Jésli dáte na cigara…“
 
 Eva rezignovaně vyndá padesátku, v tomhle prostoru by o ni stejně přišla – poděkuje a je zas o jedno zklamání bohatší…
+
+</section>

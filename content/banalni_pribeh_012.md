@@ -3,6 +3,8 @@ title: '7'
 contentType: prose
 ---
 
+<section>
+
 Je ráno. Kalné ráno, chtělo by se říct, ale toto ráno je slunné: vše živé se raduje, jen Eva leží oblečená v křesle, stočená do klubíčka. Boris s kýblem na lešení nejdřív okukuje, potom nesměle zaťuká:
 
 „Madam! Jésli vazmožno?“
@@ -34,3 +36,5 @@ Eva polobděle hledá ovladač, aby tu věc vypnula, zatímco sladká hospodyňk
 „Vysaje i chlupy z chlapa!“
 
 Eva se zarazí – ale ne, to byl zase přeslech – vypne televizi a lehne si s dlaní přes oči. Pak se konečně hluboce a tiše rozpláče.
+
+</section>

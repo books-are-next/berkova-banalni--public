@@ -3,6 +3,8 @@ title: '15'
 contentType: prose
 ---
 
+<section>
+
 Samota není tak strašná jako ten strach z ní; ani rozvod není tak strašný jako ten strach z něj. A pak to odvykání starým poutům. Ač těsná a škrtící, přece jen vrostla do těla a stala se námi. Takže oddělování se od letitých pout je příjemné asi jako sundávání sádry: hůř – jako amputace; jakkoli víme, že je nutná, že zachraňuje zbytek organismu, přece jen je to řez do těla; je to šok, bolí to a hojí se dlouho; je to změna, s níž je třeba se vyrovnat jako se zemětřesením.
 
 Eva s Jaromírem měli amputaci hladkou, rychlou, téměř elegantní. Soudkyně vyslechla zprávu o průběhu manželství i marných pokusech nějak to spravit – a na místě rozhodla. Nadiktovala patřičný dokument, navrhla vypustit lhůtu na odvolání, vydala dokument i notářsky ověřené kopie – a popřála oběma hezký zbytek života.
@@ -32,3 +34,5 @@ A matka se tolik zděsí své nenávisti, že šílí strachem, aby se nevyplni
 Asi je součástí Evina výcviku na světě vezdejším, že ji z omylné dráhy zachraňování manželství vykopla oslice, která má chování tolik podobné: ty její křehké nervy! Ty ambice a nenaplněné plány! A jak se dlouho rozmýšlela, jestli vlastně Jaromíra chce nebo nechce – a on se tolik bál, aby ho od sebe nezapudila, vždyť ona má přece tolik jiných nápadníků! Sice se s ní do jejích šedesáti žádný neoženil, ale mohli se přerazit – alespoň tak mu to líčila a tak on to zas líčil Evě, své dosud zákonné manželce: představ si, že ona si nakonec ze všech těch nabídek vybrala právě mě! Není to skvělé? Copak Eva nechápe, že tohle je jeho životní šance? Osudová láska? No neberte to!
 
 Aspoň že už to mají za sebou. Tedy Eva. Jaromír kráčí životem tanečním krokem – přímo do tlamy infarktu, totiž až mu ta obranná skořápka rupne…
+
+</section>

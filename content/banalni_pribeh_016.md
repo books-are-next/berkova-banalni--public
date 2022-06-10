@@ -3,6 +3,8 @@ title: '11'
 contentType: prose
 ---
 
+<section>
+
 Normální cvrkot na katedře: někdo někoho hledá, někdo něco hledá, studenti čekají na zápočty, prostě škola. Eva – sakra, aspoň že ví, jak se jmenuje – je jako praštěná palicí. Říkají, že rozvod po pětadvaceti letech – to se dá člověk do pořádku tak za dva roky – uvidíme. Eva se motá, tupě civí –
 
 Okolí neví, jak s ní jednat: každý se snaží jí radit a nějak osobně se zasloužit, aby ten trapas zmizel. Že se současně kamarádí s jejím manželem a tou jeho starou italskou jalovicí – no bóže! Tak jí v duchu nadává, a co? Nahlas říká: nevím. Pořád od ní někdo něco chce a ona s mdlým úsměvem mechanicky opakuje: nevím. Lituji, nevím. Prostě nic neví. Co se děje dneska, co bude zejtra, kdo je a proč tu je a co dál a jak; na nic se jí neptejte – Evě dá dneska práci trefit se nohou do podlahy… Kde má brejle, sakra, pětadvacet let – vlezte jí všichni na hrb!
@@ -60,3 +62,5 @@ Eva na kolegyni vděčně pohlédne: to je na celé situaci snad nejhorší; vid
 Kolegyně je trochu zmatená z toho přátelského pohledu a skoro se zapýří:
 
 „Já nevim, já jsem tady nová.“
+
+</section>

@@ -3,6 +3,8 @@ title: '24'
 contentType: prose
 ---
 
+<section>
+
 Boris se zatím doma snaží; dobře ví, co to všechno obnáší, a tak něco natírá, přitlouká nebo vylepšuje, aby to nevypadalo, že se fláká. Eva předčítá seznam nutností:
 
 „Občanský průkaz nebo platný pas – to máme, vízum, to nemáme, rodný list, máme, čestné prohlášení o ubytování, máme, výpis z trestního rejstříku, máme…“
@@ -44,3 +46,5 @@ Velmi těžká pauza.
 Eva je v koncích. Mlčky sedí s hlavou v dlaních – pak zakleje a jde do koupelny, což je jediný prostor kde za sebou může prásknout dveřmi. Boris zneklidní – chvíli rázuje kolem dveří – pak zaklepe: nic. Volá, klepe dál, bojí se, aby si něco neudělala: prosí, omlouvá se. Buší na dveře – a když se pořád nic neděje, dveře jedním kopnutím vyrazí.
 
 Eva sedí na vaně – dívá se na něj s pocitem, že teď už vydrží všechno, a řekne: „Ty dveře spravíš…“
+
+</section>
