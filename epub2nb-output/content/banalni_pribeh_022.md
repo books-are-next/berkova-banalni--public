@@ -3,6 +3,8 @@ title: '17'
 contentType: prose
 ---
 
+<section>
+
 V původním bytě je všechno vzhůru nohama: Eva nakládá věci do krabic, Pavla probírá stohy knih na podlaze a vybírá si, co zabere pro sebe a co do školní knihovny – hrůza, co knih člověk posbírá! – Boris v pozadí vrší, nakládá a tahá bedny, které připravuje na ranní stěhování.
 
 „A co tohle?“
@@ -192,3 +194,5 @@ Následuje bouřlivá reakce: jako voják, co si zdřímnul v zákopu, ji Boris
 Eva je vyděšená: lekla se – a když je už klid, roztřesená se vydrápala na postel; nic se jí nestalo, ale teď už vůbec nespí: sedí s koleny u brady a třeští oči do tmy: domýšlí se opatrně, co tenhle člověk asi zažil…
 
 Teprve teď přichází dlouhá, celonoční zatmívačka…
+
+</section>

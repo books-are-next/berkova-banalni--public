@@ -3,6 +3,8 @@ title: '18'
 contentType: prose
 ---
 
+<section>
+
 Táž hnusná místnost jako onehdy, když si Eva chtěla zkontrolovat Borisovy papíry; táž hnusná bytost, špinavá pyšná matka asi šesti zanedbaných dětí v příšerně zanedbaném bytě; Matka trůní za stolem, vedle ní se snaží držet na nohou droboučký ožralý manžel s lahváčem v ruce, za nimi obě starší děti: feťák a prostitutka, s apriorně agresivním výrazem. Vědí od matky, že svět je zlej, nikdo ti nic nedá, lidi sou svině, takže co chceš, to si vem, než ti to někdo sebere. Další tři čtyři malé děti lezou po zemi někde vzadu; ti ve­předu dohromady působí jako monumentální sousoší.
 
 Odměřená Matka teatrálním gestem podává Evě nějaké papíry, svázané provázkem. Eva se v tom bezradně prohrabuje, je velmi utrápená; vidí, že to, co jí dali, není evidentně to, co chtěla vidět. Matka se výmluvně rozhlédne po rodině a její pohled říká: hele ji, paničku, jak tomu nerozumí!
@@ -74,3 +76,5 @@ Boris neurčitě přikývne a hlasitě se s Matkou loučí: „Balšoje spasib
 Boris se zarazí: tohle vypadá na průšvih; chtěl by vyjednávat, ale Eva už toho má plné zuby. Jako Boris i ona se v téhle situaci stydí za svůj národ…
 
 „Jdem! Děkujem! My už se nějak zařídíme…“
+
+</section>

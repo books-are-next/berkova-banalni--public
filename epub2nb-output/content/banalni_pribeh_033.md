@@ -3,6 +3,8 @@ title: '28'
 contentType: prose
 ---
 
+<section>
+
 Eva je zase v kavárně. Po dlouhé době – z nostalgie. Jako by mapovala prostor, kudy s Borisem procházela; jako by se magickou rekonstrukcí snažila znovu s ním navázat spojení…
 
 Sedí u čaje a dívá se na ukrajinské kopáče, slzy na krajíčku. Otevřenými dveřmi restaurace je slyšet chraplavý řehot opilé stařenky od výčepu – pár hostů se tím směrem ohlédne – číšník dveře hned zavře, ale Eva se dál dívá tím směrem: stařenka je tam se svou cikánskou kamarádkou. Eva má v paměti to první setkání: kdy se k ní stařenka vrhla jako ke kořisti a hájila své právo na kafe se šlehačkou. Evina shovívavá tolerance tehdy nebyla víc než slušivou humanitní kytkou za kloboukem: čímsi, co je v módě letošního jara, co se nosí. Teď se cítí s bufetovou babkou spřízněna víc než kdy předtím. Vcítěním. Soucítěním s člověkem, který se vší silou drží jen trošku nad hladinou…
@@ -62,3 +64,5 @@ Eva se ale už třepetá na třpytce:
 Tím je Margitina seance u konce – Margita dostává panáka a ponechává Evu jejímu zmatku: ptát se duše? Ale jak?
 
 Eva odchází, jde ven – někam – domů? Třeba. A monotónně drmolí: „Ptát se duše – duše se ptát – ptám se duše: duše, co mám dělat?“
+
+</section>

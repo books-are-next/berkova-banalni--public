@@ -3,6 +3,8 @@ title: '8'
 contentType: prose
 ---
 
+<section>
+
 Náměstí. Ne nepodobné Rynku světa, jak ho známe od Komenského: radnice, tři hospody, stánky, krámky v podloubí, trhovci, nakupující.
 
 Před obchodem cikánská matka s miminem v náručí posílá další čtyři děti krást: pracují v týmu: jedno u kasy sleduje, kam dává platící peněženku, druhé strkáním a překážením odvádí pozornost, zatímco třetí najisto hrábne do tašky.
@@ -196,3 +198,5 @@ Kumulující se krize posledních hodin nachází uvolnění v jediném upřím
 Několik lidí se ohlédne, Pavla je svěžím projevem staré profesorky udivena.
 
 „No co! Ulevuju si… Pak se přestanu mejt a potom si budu dělat do kalhot.“
+
+</section>

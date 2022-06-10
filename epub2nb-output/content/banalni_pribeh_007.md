@@ -3,6 +3,8 @@ title: '2'
 contentType: prose
 ---
 
+<section>
+
 Boris je ve své tělocvičně; je to vybílená stodola, kde se právě teď pod vedením dvou asistentů přibližně dvacet chlapců pokouší naučit, pochopit a vdechnout, ducha karate. V rohu tělocvičny má Boris svůj obytný kout: postel, vařič, poličku na trička, poličku na knihy, televizi. To je všechno, co mu zbylo po návratu z vězení. Zmizela žena, zmizelo hospodářství, polnosti i dům. Ale kdo by se zlobil; vše bylo podle zákona…
 
 Toho mrtvého mu před dům nastrčili. Policajti to dosvědčili. Dostal osm let, ale kdo by se zlobil, že… Zvláštní, že se říká „dostal osm let“ – když mu osm let vzali. Ale může mluvit o štěstí, že se vůbec vrátil: jeho otec se nevrátil. Borisovi bylo patnáct, otce miloval jako vzor. Jako siláka. Jako správného chlapa. Jednou někoho mlátili a on se ho zastal; jenže to byli policajti, kdo mlátili – kdo to mohl vědět? Pak pro otce přišli – a nikdo už ho neviděl. Zmizel na Sibiři. Matka se vdala skoro hned. Boris jí to měl velmi za zlé – a až mnohem později, jako otec dcery, která má sama dceru – pochopil, že to byl jediný způsob, jak přežít. Kde je právo luxus, je luxus i lítost. A když nepoznáš, kdy je luxus i boj za pravdu, právo a spravedlnost, seš mrtvej muž… Jako ta jepice, která – zuřivé mávajíc křídly – pokoušela se zastavit rozjetý vůz…
@@ -92,3 +94,5 @@ Pak zvolna balí pár nezbytností – tričko, mobil, kartáček na zuby – 
 „Nevíš, kam jsem jel, nevíš, kde jsem; dávej pozor na mou dceru. Tady si vem, co chceš. Jestli to zaberou, nech je. Ozvu se ti. Zatím cvičte. Já jdu.“
 
 Dává asistentovi klíče, ten mlčky a oddaně kývne. Boris se naposled podívá na hošíky, bere si nemožnou kostkovanou tašku, nemožné kostkované sako a odchází.
+
+</section>

@@ -3,6 +3,8 @@ title: '12'
 contentType: prose
 ---
 
+<section>
+
 Řečeno bylo kdysi kýmsi, že peníze de facto neexistují; že to, co známe pod tím pojmem, jsou jen zástupné symboly, představující energii: životní energii – nic menšího. A že honí-li se někdo za penězi, počíná si, jako by stíhal bájného jednorožce: zvíře, o němž všichni vědí, všichni o něm slyšeli, ale nikdo je nikdy neviděl. Máme se honit za konkrétními věcmi, které za ty peníze chcem – když už se chceme honit… Zhruba v tom duchu teď Eva malátně vnímá, že ztratila směr, ztratila cíl, všechno kolem ní plyne, ale ona se zastavila: je bez pohybu, ztratila energii a energie i peníze od ní odplouvají…
 
 Jako v mlze sleduje nažhavenou Pavlu, která skládá lejstra do tašky a chystá se odejít. Něco spolu vyřizovaly. Něco. Evě je to fuk. Pavla drmolí něco, k čemu se už chvíli chystala, a nějak nenašla odvahu a způsob, aby vše vysvětlila a přitom zůstala celá…
@@ -90,3 +92,5 @@ Eva vraští čelo jako někdo, koho buděj moc brzo: na tohle nechce myslet �
 Pavla rezignovaně zaklapne diář:
 
 „Je mi to jasný: vobjevilas tvaroh.“
+
+</section>

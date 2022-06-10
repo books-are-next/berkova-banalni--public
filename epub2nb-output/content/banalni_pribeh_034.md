@@ -3,6 +3,8 @@ title: '29'
 contentType: prose
 ---
 
+<section>
+
 Eva sedí s Pavlou u kafe, má červené oči.
 
 Pavla je oblečená za dámu, s mírným opovržením se rozhlíží kolem: fyzicky je tu poprvé, v tomhle bytě starých začátečníků… Eva vypadá, že se sesýpá sama do sebe, Pavla se snaží o formální účast, ale uvnitř zívá:
@@ -42,3 +44,5 @@ Pavla nad ní rezignovaně vrtí hlavou:
 „Rumun, nebo Moldavan – zůstane pyšnej, urážlivej, nedůtklivej; žádnej dialog, žádná hravost a sex jen na dělání dětí…! Probuď se!“
 
 Nezdá se, že by se Eva chtěla probudit. Pavla se zvedá k odchodu a Eva se ani nepohne, aby ji vyprovodila…
+
+</section>

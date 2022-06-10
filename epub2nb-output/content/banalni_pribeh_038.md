@@ -3,6 +3,8 @@ title: '33'
 contentType: prose
 ---
 
+<section>
+
 A dějou se věci jako v životě: je třeba pro Borise sehnat práci. A to není žádná legrace. Je třeba splatit dluhy. Je třeba vydělat na lepší byt – anebo míň zoufale zadaptovat tenhle: chtělo by to chrom a sklo a nepřímé osvětlení a lepší koupelnu než tuhle starou vanu, natřenou emailem, a jiné topení než kamna – a to jsou zátěže, s nimiž se nepočítalo; byli načasovaní na vydání vší energie k vyřízení dokumentů – a těšili se na nezkalené štěstí, jež bude následovat; jenže svět vezdejší tu není, abychom byli šťastni: je to cvičák, kde máme podat výkon; a tak i občasné hádky a nedorozumění mají charakter překážky ke zvládnutí na tomhle velmi krásném, podivuhodném cvičišti; v tom magickém prostoru, zvaném svět. A tak Eva, posílena předchozí zátěží, zvládá věci, o nichž netušila, že je unese, a celkem hravě se zbavuje spotřební rozbředlosti…
 
 A objevil se i Jaromír: značkové boty, značkové sako, značkové brýle: chodící značka kvality. Chtěl jen nějaký papír, který mu mohla Eva poslat nebo dcera donést, mohl si ho okopírovat na úřadě či vyhrabat ve vlastních dokumentech – ale přišel. Pozdravil, rozhlédl se a sebevědomí se mu zvedlo: tohle není interiér; hodný bytového architekta. V tu chvíli nebylo podstatné, že on sám momentálně nemá byt vůbec: tady je to splácané, ošklivé, chudé.
@@ -42,3 +44,5 @@ To utrousil jen tak – jakoby mimochodem. Ani se na ni nepodíval. Jako by nic
 Evě se sevřel žaludek. Zdálky k ní zavanula zapomenutá vlna úzkosti, že všechno je možné a nic není jisté, protože v bezbřehé nahodilosti není o co se opřít. Nadechla se a pravila statečně:
 
 „Víš, Jaromíre, myslím, že to není nejlepší nápad…“
+
+</section>

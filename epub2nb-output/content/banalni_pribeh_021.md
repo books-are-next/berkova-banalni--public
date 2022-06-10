@@ -3,6 +3,8 @@ title: '16'
 contentType: prose
 ---
 
+<section>
+
 Eva je teď s dcerou na obhlídce nového bytu. Tedy – bytu: suterénní místnosti.
 
 Schody ke sklepu – za dveřmi tmavý prostor, špína, nějaké harampádí.
@@ -52,3 +54,5 @@ Objetí, slzy vděku zamáčknuty. Evu dosud nenapadlo, jak velmi dospělou má 
 „Jasně – dem!“
 
 Myška se rázně chopí vedení výpravy, pozhasíná, pozamyká. Jde nahoru vrátit klíče.
+
+</section>

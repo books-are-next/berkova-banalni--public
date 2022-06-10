@@ -3,6 +3,8 @@ title: '3'
 contentType: prose
 ---
 
+<section>
+
 Evě je pětačtyřicet, ale to by jí nikdo nehádal: na první pohled vidíte, že se udržuje, cvičí a vůbec na sobě pracuje, takže každému je jasné, že to, co vidí, je žena mnohem, mnohem mladší.
 
 Eva má dceru a ta má taky dceru, takže ať se to bere odkudkoli, pořád vychází, že navzdory posilovnám, dietám a soláriu – Eva je babičkou. Svou sladkou vnučinku velmi miluje, s chutí ji očichává, lechtá, mačká a všelijak muchluje – ale to slovo vnučka jako by ji zvolna sunulo do hrobu.
@@ -66,3 +68,5 @@ Pavla ji formálně, žoviálně chlácholí jako lékař umírajícího, které
 Eva tedy opatrně pouští plačící ctitelku a ponechává ji jejím slzám, kterým najednou rozumí. Jsou to slzy zklamané Popelky, která se tolik snažila…
 
 Pavla mírně couvla a sleduje vše se shovívavým nezájmem mladé generace, která má všechno před sebou a něco jako životní zklamání ji přece nemůže potkat…
+
+</section>

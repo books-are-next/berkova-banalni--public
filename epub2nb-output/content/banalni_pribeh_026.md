@@ -3,6 +3,8 @@ title: '21'
 contentType: prose
 ---
 
+<section>
+
 První krok na cestě, která se na startu zdála být kratší:
 
 Úředník na cizinecké policii má zřejmě nekonečnou trpělivost; u zaskleného okénka se tlačí Vietnamci s rodinami – hodiny čekání. Konečně je řada na Evě. Eva má dojem, jako ostatně každý začátečník, že její případ je speciální, úplně jiný než těch ostatních: je prostý, krystalicky čistý a bude hravě a elegantně vyřešen:
@@ -42,3 +44,5 @@ Eva stojí a civí.
 Ochromená Eva se obrací k odchodu. Zdvořilý Vietnamec jí s úsměvem podává z několika hromad po jednom formuláři, aby to prostudovala:
 
 „Tady mušiš čist, tady šecko napsaný, jó…“
+
+</section>

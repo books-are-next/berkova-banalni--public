@@ -3,6 +3,8 @@ title: '10'
 contentType: prose
 ---
 
+<section>
+
 Je ráno. Časné ráno – začalo svítat. Eva se probouzí chladem: ležela nepřikrytá na posteli, s očima červenýma nevyspáním a pláčem – kolem roztrhané rodinné fotografie.
 
 Zvolna se zvedá, aby šla zavřít otevřené okno – a s mírným leknutím přitlumeného polovědomí najde na lešení ležet Borise, zabaleného v hadrech, obestavěného prkny, aby nespadl.
@@ -190,3 +192,5 @@ V Kišiněvě se střílí. Že je profesorka, to jí životní sílu nedodá. 
 „Přijďte oknem. Kdykoli.“
 
 Boris se taky usměje – poprvé – sebere roztrženou vizitku a odporoučí se oknem. Eva ho sleduje vděčným pohledem, jako Pátka na svém ostrově…
+
+</section>

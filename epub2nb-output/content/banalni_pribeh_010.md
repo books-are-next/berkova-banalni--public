@@ -3,6 +3,8 @@ title: '5'
 contentType: prose
 ---
 
+<section>
+
 Eva se právě vrátila domů: je to velmi elegantní, atypický byt architekta: sklo, chrom, prostor, prosklené dveře do koupelny. Eva odkládá zavazadla, rozhlíží se a vzápětí někdo zvoní: matka. Ach bože, zrušte ty matky! Smršť otázek, ustaraná zvědavost, je to láska, samozřejmě, ale teď se to nehodí – nehodí – nehodí!
 
 Stará Eva s mladou duší se po jízdě s Pavlou cítí zle a potřebuje být sama. Ne tak maminka. Má toho tolik na srdci – tolik je toho kolem špatného, divného, podezřelého a v nepořádku, že na to přece musí upozornit, ne?
@@ -122,3 +124,5 @@ Eva pomalu, velmi pomalu pokládá telefon. To je všechno. Obvolávat známé? 
 Eva udělá malátně několik nesmyslných úkonů, a pak si zas sedne.
 
 Boris pořád stojí na lešení. Bude zřejmě Evu střežit celou noc…
+
+</section>
