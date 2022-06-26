@@ -1,0 +1,801 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Banální příběh",
+  "author": "Alexandra Berková",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "berkova-banalni-pribeh-e439182",
+  "revision": "e439182",
+  "readingOrder": [
+    "promo.html",
+    "banalni_pribeh_005.html",
+    "banalni_pribeh_006.html",
+    "banalni_pribeh_007.html",
+    "banalni_pribeh_008.html",
+    "banalni_pribeh_009.html",
+    "banalni_pribeh_010.html",
+    "banalni_pribeh_011.html",
+    "banalni_pribeh_012.html",
+    "banalni_pribeh_013.html",
+    "banalni_pribeh_014.html",
+    "banalni_pribeh_015.html",
+    "banalni_pribeh_016.html",
+    "banalni_pribeh_017.html",
+    "banalni_pribeh_018.html",
+    "banalni_pribeh_019.html",
+    "banalni_pribeh_020.html",
+    "banalni_pribeh_021.html",
+    "banalni_pribeh_022.html",
+    "banalni_pribeh_023.html",
+    "banalni_pribeh_024.html",
+    "banalni_pribeh_025.html",
+    "banalni_pribeh_026.html",
+    "banalni_pribeh_027.html",
+    "banalni_pribeh_028.html",
+    "banalni_pribeh_029.html",
+    "banalni_pribeh_030.html",
+    "banalni_pribeh_031.html",
+    "banalni_pribeh_032.html",
+    "banalni_pribeh_033.html",
+    "banalni_pribeh_034.html",
+    "banalni_pribeh_035.html",
+    "banalni_pribeh_036.html",
+    "banalni_pribeh_037.html",
+    "banalni_pribeh_038.html",
+    "banalni_pribeh_039.html",
+    "colophon.html"
+  ],
+  "generatedAt": {
+    "date": "Sun Jun 26 2022 10:07:45 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1656238065060
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "banalni_pribeh_005.html",
+      "toc": []
+    },
+    {
+      "title": "Banální příběh",
+      "file": "banalni_pribeh_005.html",
+      "words": 53,
+      "chars": 295,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "banalni_pribeh_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1",
+      "file": "banalni_pribeh_006.html",
+      "words": 869,
+      "chars": 4987,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 2,
+      "prev": "banalni_pribeh_005.html",
+      "next": "banalni_pribeh_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2",
+      "file": "banalni_pribeh_007.html",
+      "words": 1056,
+      "chars": 6040,
+      "ideas": 46,
+      "role": "chapter",
+      "order": 3,
+      "prev": "banalni_pribeh_006.html",
+      "next": "banalni_pribeh_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "3",
+      "file": "banalni_pribeh_008.html",
+      "words": 1003,
+      "chars": 5863,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 4,
+      "prev": "banalni_pribeh_007.html",
+      "next": "banalni_pribeh_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "3",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "4",
+      "file": "banalni_pribeh_009.html",
+      "words": 671,
+      "chars": 3844,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 5,
+      "prev": "banalni_pribeh_008.html",
+      "next": "banalni_pribeh_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "4",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "5",
+      "file": "banalni_pribeh_010.html",
+      "words": 1266,
+      "chars": 6912,
+      "ideas": 61,
+      "role": "chapter",
+      "order": 6,
+      "prev": "banalni_pribeh_009.html",
+      "next": "banalni_pribeh_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "5",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "6",
+      "file": "banalni_pribeh_011.html",
+      "words": 1698,
+      "chars": 9651,
+      "ideas": 76,
+      "role": "chapter",
+      "order": 7,
+      "prev": "banalni_pribeh_010.html",
+      "next": "banalni_pribeh_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "6",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "7",
+      "file": "banalni_pribeh_012.html",
+      "words": 397,
+      "chars": 2225,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 8,
+      "prev": "banalni_pribeh_011.html",
+      "next": "banalni_pribeh_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "7",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "8",
+      "file": "banalni_pribeh_013.html",
+      "words": 2028,
+      "chars": 11222,
+      "ideas": 98,
+      "role": "chapter",
+      "order": 9,
+      "prev": "banalni_pribeh_012.html",
+      "next": "banalni_pribeh_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "8",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "9",
+      "file": "banalni_pribeh_014.html",
+      "words": 1798,
+      "chars": 9834,
+      "ideas": 83,
+      "role": "chapter",
+      "order": 10,
+      "prev": "banalni_pribeh_013.html",
+      "next": "banalni_pribeh_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "9",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "10",
+      "file": "banalni_pribeh_015.html",
+      "words": 1435,
+      "chars": 8032,
+      "ideas": 95,
+      "role": "chapter",
+      "order": 11,
+      "prev": "banalni_pribeh_014.html",
+      "next": "banalni_pribeh_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "10",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "11",
+      "file": "banalni_pribeh_016.html",
+      "words": 517,
+      "chars": 2754,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 12,
+      "prev": "banalni_pribeh_015.html",
+      "next": "banalni_pribeh_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "11",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "12",
+      "file": "banalni_pribeh_017.html",
+      "words": 938,
+      "chars": 5016,
+      "ideas": 45,
+      "role": "chapter",
+      "order": 13,
+      "prev": "banalni_pribeh_016.html",
+      "next": "banalni_pribeh_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "12",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "13",
+      "file": "banalni_pribeh_018.html",
+      "words": 774,
+      "chars": 4320,
+      "ideas": 40,
+      "role": "chapter",
+      "order": 14,
+      "prev": "banalni_pribeh_017.html",
+      "next": "banalni_pribeh_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "13",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "14",
+      "file": "banalni_pribeh_019.html",
+      "words": 995,
+      "chars": 5570,
+      "ideas": 47,
+      "role": "chapter",
+      "order": 15,
+      "prev": "banalni_pribeh_018.html",
+      "next": "banalni_pribeh_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "14",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "15",
+      "file": "banalni_pribeh_020.html",
+      "words": 820,
+      "chars": 4590,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 16,
+      "prev": "banalni_pribeh_019.html",
+      "next": "banalni_pribeh_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "15",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "16",
+      "file": "banalni_pribeh_021.html",
+      "words": 430,
+      "chars": 2356,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 17,
+      "prev": "banalni_pribeh_020.html",
+      "next": "banalni_pribeh_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "16",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "17",
+      "file": "banalni_pribeh_022.html",
+      "words": 2641,
+      "chars": 14460,
+      "ideas": 96,
+      "role": "chapter",
+      "order": 18,
+      "prev": "banalni_pribeh_021.html",
+      "next": "banalni_pribeh_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "17",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "18",
+      "file": "banalni_pribeh_023.html",
+      "words": 1078,
+      "chars": 6071,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 19,
+      "prev": "banalni_pribeh_022.html",
+      "next": "banalni_pribeh_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "18",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "19",
+      "file": "banalni_pribeh_024.html",
+      "words": 971,
+      "chars": 5281,
+      "ideas": 51,
+      "role": "chapter",
+      "order": 20,
+      "prev": "banalni_pribeh_023.html",
+      "next": "banalni_pribeh_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "19",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "20",
+      "file": "banalni_pribeh_025.html",
+      "words": 1110,
+      "chars": 6151,
+      "ideas": 72,
+      "role": "chapter",
+      "order": 21,
+      "prev": "banalni_pribeh_024.html",
+      "next": "banalni_pribeh_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "20",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "21",
+      "file": "banalni_pribeh_026.html",
+      "words": 402,
+      "chars": 2239,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 22,
+      "prev": "banalni_pribeh_025.html",
+      "next": "banalni_pribeh_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "21",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "22",
+      "file": "banalni_pribeh_027.html",
+      "words": 1011,
+      "chars": 5764,
+      "ideas": 49,
+      "role": "chapter",
+      "order": 23,
+      "prev": "banalni_pribeh_026.html",
+      "next": "banalni_pribeh_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "22",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "23",
+      "file": "banalni_pribeh_028.html",
+      "words": 833,
+      "chars": 4606,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 24,
+      "prev": "banalni_pribeh_027.html",
+      "next": "banalni_pribeh_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "23",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "24",
+      "file": "banalni_pribeh_029.html",
+      "words": 343,
+      "chars": 1841,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 25,
+      "prev": "banalni_pribeh_028.html",
+      "next": "banalni_pribeh_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "24",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "25",
+      "file": "banalni_pribeh_030.html",
+      "words": 108,
+      "chars": 612,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 26,
+      "prev": "banalni_pribeh_029.html",
+      "next": "banalni_pribeh_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "25",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "26",
+      "file": "banalni_pribeh_031.html",
+      "words": 757,
+      "chars": 4140,
+      "ideas": 38,
+      "role": "chapter",
+      "order": 27,
+      "prev": "banalni_pribeh_030.html",
+      "next": "banalni_pribeh_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "26",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "27",
+      "file": "banalni_pribeh_032.html",
+      "words": 601,
+      "chars": 3358,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 28,
+      "prev": "banalni_pribeh_031.html",
+      "next": "banalni_pribeh_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "27",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "28",
+      "file": "banalni_pribeh_033.html",
+      "words": 533,
+      "chars": 2943,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 29,
+      "prev": "banalni_pribeh_032.html",
+      "next": "banalni_pribeh_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "28",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "29",
+      "file": "banalni_pribeh_034.html",
+      "words": 303,
+      "chars": 1608,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 30,
+      "prev": "banalni_pribeh_033.html",
+      "next": "banalni_pribeh_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "29",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "30",
+      "file": "banalni_pribeh_035.html",
+      "words": 223,
+      "chars": 1178,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 31,
+      "prev": "banalni_pribeh_034.html",
+      "next": "banalni_pribeh_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "30",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "31",
+      "file": "banalni_pribeh_036.html",
+      "words": 465,
+      "chars": 2492,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 32,
+      "prev": "banalni_pribeh_035.html",
+      "next": "banalni_pribeh_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "31",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "32",
+      "file": "banalni_pribeh_037.html",
+      "words": 746,
+      "chars": 4199,
+      "ideas": 42,
+      "role": "chapter",
+      "order": 33,
+      "prev": "banalni_pribeh_036.html",
+      "next": "banalni_pribeh_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "32",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "33",
+      "file": "banalni_pribeh_038.html",
+      "words": 503,
+      "chars": 2879,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 34,
+      "prev": "banalni_pribeh_037.html",
+      "next": "banalni_pribeh_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "33",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "34",
+      "file": "banalni_pribeh_039.html",
+      "words": 450,
+      "chars": 2317,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 35,
+      "prev": "banalni_pribeh_038.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "34",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "colophon.html",
+      "words": 140,
+      "chars": 931,
+      "ideas": 17,
+      "role": "colophon",
+      "order": null,
+      "prev": "banalni_pribeh_039.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 29971,
+      "chars": 166615,
+      "ideas": 1399
+    },
+    "chapters": {
+      "words": 29826,
+      "chars": 165650,
+      "ideas": 1379
+    }
+  }
+}
