@@ -3,12 +3,13 @@
     "isPreview": false
   },
   "title": "Banální příběh",
+  "subtitle": "Filmová povídka o prostém životním běhu",
   "author": "Alexandra Berková",
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "berkova-banalni-pribeh-e439182",
-  "revision": "e439182",
+  "identifier": "berkova-banalni-pribeh-ce1bd2d",
+  "revision": "ce1bd2d",
   "readingOrder": [
     "promo.html",
     "banalni_pribeh_005.html",
@@ -49,8 +50,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sun Jun 26 2022 10:07:45 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1656238065060
+    "date": "Sun Jun 26 2022 10:37:33 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1656239853716
   },
   "documents": [
     {

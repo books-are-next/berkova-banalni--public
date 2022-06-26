@@ -13,6 +13,7 @@ meta:
   isbn: 978-80-274-1614-1
   publisherShort: mkp
   contentType: prose
+  subtitle: Filmová povídka o prostém životním běhu
 readingOrder:
   - promo.html
   - banalni_pribeh_005.html
