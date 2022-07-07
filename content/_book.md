@@ -16,8 +16,6 @@ meta:
   subtitle: Filmová povídka o prostém životním běhu
 readingOrder:
   - promo.html
-  - banalni_pribeh_003.html
-  - banalni_pribeh_004.html
   - banalni_pribeh_005.html
   - banalni_pribeh_006.html
   - banalni_pribeh_007.html
@@ -53,7 +51,7 @@ readingOrder:
   - banalni_pribeh_037.html
   - banalni_pribeh_038.html
   - banalni_pribeh_039.html
-  - banalni_pribeh_040.html
+  - about.html
 tocBase:
   - id: section-1
     children:
