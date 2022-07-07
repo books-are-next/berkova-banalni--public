@@ -8,12 +8,10 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "berkova-banalni-pribeh-33237a1",
-  "revision": "33237a1",
+  "identifier": "berkova-banalni-pribeh-ee56ce9",
+  "revision": "ee56ce9",
   "readingOrder": [
     "promo.html",
-    "banalni_pribeh_003.html",
-    "banalni_pribeh_004.html",
     "banalni_pribeh_005.html",
     "banalni_pribeh_006.html",
     "banalni_pribeh_007.html",
@@ -49,11 +47,11 @@
     "banalni_pribeh_037.html",
     "banalni_pribeh_038.html",
     "banalni_pribeh_039.html",
-    "banalni_pribeh_040.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 07:54:59 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657180499343
+    "date": "Thu Jul 07 2022 08:15:08 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657181708294
   },
   "documents": [
     {
@@ -65,48 +63,8 @@
       "role": "chapter",
       "order": 0,
       "prev": null,
-      "next": "banalni_pribeh_003.html",
-      "toc": []
-    },
-    {
-      "title": "Banální příběh",
-      "file": "banalni_pribeh_003.html",
-      "words": 10,
-      "chars": 69,
-      "ideas": 4,
-      "role": "chapter",
-      "order": 1,
-      "prev": "promo.html",
-      "next": "banalni_pribeh_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Banální příběh",
-      "file": "banalni_pribeh_004.html",
-      "words": 90,
-      "chars": 596,
-      "ideas": 7,
-      "role": "chapter",
-      "order": 2,
-      "prev": "banalni_pribeh_003.html",
       "next": "banalni_pribeh_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Banální příběh",
@@ -115,8 +73,8 @@
       "chars": 295,
       "ideas": 3,
       "role": "chapter",
-      "order": 3,
-      "prev": "banalni_pribeh_004.html",
+      "order": 1,
+      "prev": "promo.html",
       "next": "banalni_pribeh_006.html",
       "toc": [
         {
@@ -135,7 +93,7 @@
       "chars": 4987,
       "ideas": 21,
       "role": "chapter",
-      "order": 4,
+      "order": 2,
       "prev": "banalni_pribeh_005.html",
       "next": "banalni_pribeh_007.html",
       "toc": [
@@ -155,7 +113,7 @@
       "chars": 6040,
       "ideas": 46,
       "role": "chapter",
-      "order": 5,
+      "order": 3,
       "prev": "banalni_pribeh_006.html",
       "next": "banalni_pribeh_008.html",
       "toc": [
@@ -175,7 +133,7 @@
       "chars": 5863,
       "ideas": 33,
       "role": "chapter",
-      "order": 6,
+      "order": 4,
       "prev": "banalni_pribeh_007.html",
       "next": "banalni_pribeh_009.html",
       "toc": [
@@ -195,7 +153,7 @@
       "chars": 3844,
       "ideas": 35,
       "role": "chapter",
-      "order": 7,
+      "order": 5,
       "prev": "banalni_pribeh_008.html",
       "next": "banalni_pribeh_010.html",
       "toc": [
@@ -215,7 +173,7 @@
       "chars": 6912,
       "ideas": 61,
       "role": "chapter",
-      "order": 8,
+      "order": 6,
       "prev": "banalni_pribeh_009.html",
       "next": "banalni_pribeh_011.html",
       "toc": [
@@ -235,7 +193,7 @@
       "chars": 9651,
       "ideas": 76,
       "role": "chapter",
-      "order": 9,
+      "order": 7,
       "prev": "banalni_pribeh_010.html",
       "next": "banalni_pribeh_012.html",
       "toc": [
@@ -255,7 +213,7 @@
       "chars": 2225,
       "ideas": 17,
       "role": "chapter",
-      "order": 10,
+      "order": 8,
       "prev": "banalni_pribeh_011.html",
       "next": "banalni_pribeh_013.html",
       "toc": [
@@ -275,7 +233,7 @@
       "chars": 11222,
       "ideas": 98,
       "role": "chapter",
-      "order": 11,
+      "order": 9,
       "prev": "banalni_pribeh_012.html",
       "next": "banalni_pribeh_014.html",
       "toc": [
@@ -295,7 +253,7 @@
       "chars": 9834,
       "ideas": 83,
       "role": "chapter",
-      "order": 12,
+      "order": 10,
       "prev": "banalni_pribeh_013.html",
       "next": "banalni_pribeh_015.html",
       "toc": [
@@ -315,7 +273,7 @@
       "chars": 8032,
       "ideas": 95,
       "role": "chapter",
-      "order": 13,
+      "order": 11,
       "prev": "banalni_pribeh_014.html",
       "next": "banalni_pribeh_016.html",
       "toc": [
@@ -335,7 +293,7 @@
       "chars": 2754,
       "ideas": 30,
       "role": "chapter",
-      "order": 14,
+      "order": 12,
       "prev": "banalni_pribeh_015.html",
       "next": "banalni_pribeh_017.html",
       "toc": [
@@ -355,7 +313,7 @@
       "chars": 5016,
       "ideas": 45,
       "role": "chapter",
-      "order": 15,
+      "order": 13,
       "prev": "banalni_pribeh_016.html",
       "next": "banalni_pribeh_018.html",
       "toc": [
@@ -375,7 +333,7 @@
       "chars": 4320,
       "ideas": 40,
       "role": "chapter",
-      "order": 16,
+      "order": 14,
       "prev": "banalni_pribeh_017.html",
       "next": "banalni_pribeh_019.html",
       "toc": [
@@ -395,7 +353,7 @@
       "chars": 5570,
       "ideas": 47,
       "role": "chapter",
-      "order": 17,
+      "order": 15,
       "prev": "banalni_pribeh_018.html",
       "next": "banalni_pribeh_020.html",
       "toc": [
@@ -415,7 +373,7 @@
       "chars": 4590,
       "ideas": 16,
       "role": "chapter",
-      "order": 18,
+      "order": 16,
       "prev": "banalni_pribeh_019.html",
       "next": "banalni_pribeh_021.html",
       "toc": [
@@ -435,7 +393,7 @@
       "chars": 2356,
       "ideas": 26,
       "role": "chapter",
-      "order": 19,
+      "order": 17,
       "prev": "banalni_pribeh_020.html",
       "next": "banalni_pribeh_022.html",
       "toc": [
@@ -455,7 +413,7 @@
       "chars": 14460,
       "ideas": 96,
       "role": "chapter",
-      "order": 20,
+      "order": 18,
       "prev": "banalni_pribeh_021.html",
       "next": "banalni_pribeh_023.html",
       "toc": [
@@ -475,7 +433,7 @@
       "chars": 6071,
       "ideas": 37,
       "role": "chapter",
-      "order": 21,
+      "order": 19,
       "prev": "banalni_pribeh_022.html",
       "next": "banalni_pribeh_024.html",
       "toc": [
@@ -495,7 +453,7 @@
       "chars": 5281,
       "ideas": 51,
       "role": "chapter",
-      "order": 22,
+      "order": 20,
       "prev": "banalni_pribeh_023.html",
       "next": "banalni_pribeh_025.html",
       "toc": [
@@ -515,7 +473,7 @@
       "chars": 6151,
       "ideas": 72,
       "role": "chapter",
-      "order": 23,
+      "order": 21,
       "prev": "banalni_pribeh_024.html",
       "next": "banalni_pribeh_026.html",
       "toc": [
@@ -535,7 +493,7 @@
       "chars": 2239,
       "ideas": 21,
       "role": "chapter",
-      "order": 24,
+      "order": 22,
       "prev": "banalni_pribeh_025.html",
       "next": "banalni_pribeh_027.html",
       "toc": [
@@ -555,7 +513,7 @@
       "chars": 5764,
       "ideas": 49,
       "role": "chapter",
-      "order": 25,
+      "order": 23,
       "prev": "banalni_pribeh_026.html",
       "next": "banalni_pribeh_028.html",
       "toc": [
@@ -575,7 +533,7 @@
       "chars": 4606,
       "ideas": 17,
       "role": "chapter",
-      "order": 26,
+      "order": 24,
       "prev": "banalni_pribeh_027.html",
       "next": "banalni_pribeh_029.html",
       "toc": [
@@ -595,7 +553,7 @@
       "chars": 1841,
       "ideas": 22,
       "role": "chapter",
-      "order": 27,
+      "order": 25,
       "prev": "banalni_pribeh_028.html",
       "next": "banalni_pribeh_030.html",
       "toc": [
@@ -615,7 +573,7 @@
       "chars": 612,
       "ideas": 6,
       "role": "chapter",
-      "order": 28,
+      "order": 26,
       "prev": "banalni_pribeh_029.html",
       "next": "banalni_pribeh_031.html",
       "toc": [
@@ -635,7 +593,7 @@
       "chars": 4140,
       "ideas": 38,
       "role": "chapter",
-      "order": 29,
+      "order": 27,
       "prev": "banalni_pribeh_030.html",
       "next": "banalni_pribeh_032.html",
       "toc": [
@@ -655,7 +613,7 @@
       "chars": 3358,
       "ideas": 32,
       "role": "chapter",
-      "order": 30,
+      "order": 28,
       "prev": "banalni_pribeh_031.html",
       "next": "banalni_pribeh_033.html",
       "toc": [
@@ -675,7 +633,7 @@
       "chars": 2943,
       "ideas": 31,
       "role": "chapter",
-      "order": 31,
+      "order": 29,
       "prev": "banalni_pribeh_032.html",
       "next": "banalni_pribeh_034.html",
       "toc": [
@@ -695,7 +653,7 @@
       "chars": 1608,
       "ideas": 21,
       "role": "chapter",
-      "order": 32,
+      "order": 30,
       "prev": "banalni_pribeh_033.html",
       "next": "banalni_pribeh_035.html",
       "toc": [
@@ -715,7 +673,7 @@
       "chars": 1178,
       "ideas": 7,
       "role": "chapter",
-      "order": 33,
+      "order": 31,
       "prev": "banalni_pribeh_034.html",
       "next": "banalni_pribeh_036.html",
       "toc": [
@@ -735,7 +693,7 @@
       "chars": 2492,
       "ideas": 20,
       "role": "chapter",
-      "order": 34,
+      "order": 32,
       "prev": "banalni_pribeh_035.html",
       "next": "banalni_pribeh_037.html",
       "toc": [
@@ -755,7 +713,7 @@
       "chars": 4199,
       "ideas": 42,
       "role": "chapter",
-      "order": 35,
+      "order": 33,
       "prev": "banalni_pribeh_036.html",
       "next": "banalni_pribeh_038.html",
       "toc": [
@@ -775,7 +733,7 @@
       "chars": 2879,
       "ideas": 21,
       "role": "chapter",
-      "order": 36,
+      "order": 34,
       "prev": "banalni_pribeh_037.html",
       "next": "banalni_pribeh_039.html",
       "toc": [
@@ -795,9 +753,9 @@
       "chars": 2317,
       "ideas": 24,
       "role": "chapter",
-      "order": 37,
+      "order": 35,
       "prev": "banalni_pribeh_038.html",
-      "next": "banalni_pribeh_040.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -809,20 +767,20 @@
       ]
     },
     {
-      "title": "Banální příběh",
-      "file": "banalni_pribeh_040.html",
-      "words": 50,
-      "chars": 330,
-      "ideas": 12,
-      "role": "chapter",
-      "order": 38,
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 140,
+      "chars": 930,
+      "ideas": 17,
+      "role": "about",
+      "order": null,
       "prev": "banalni_pribeh_039.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -831,14 +789,14 @@
   ],
   "totals": {
     "all": {
-      "words": 29982,
-      "chars": 166684,
-      "ideas": 1406
+      "words": 29971,
+      "chars": 166614,
+      "ideas": 1399
     },
     "chapters": {
-      "words": 29976,
-      "chars": 166645,
-      "ideas": 1402
+      "words": 29826,
+      "chars": 165650,
+      "ideas": 1379
     }
   }
 }
