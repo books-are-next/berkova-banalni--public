@@ -6,10 +6,11 @@
   "subtitle": "Filmová povídka o prostém životním běhu",
   "author": "Alexandra Berková",
   "publisher": "Městská knihovna v Praze",
+  "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "berkova-banalni-pribeh-f548b93",
-  "revision": "f548b93",
+  "identifier": "berkova-banalni-pribeh-08b5b97",
+  "revision": "08b5b97",
   "readingOrder": [
     "promo.html",
     "banalni_pribeh_005.html",
@@ -50,8 +51,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:46:34 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658414794263
+    "date": "Mon Aug 08 2022 11:57:43 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1659959863527
   },
   "documents": [
     {
@@ -770,7 +771,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 140,
-      "chars": 931,
+      "chars": 930,
       "ideas": 17,
       "role": "about",
       "order": null,
@@ -789,9 +790,9 @@
   ],
   "totals": {
     "all": {
-      "words": 29971,
-      "chars": 166615,
-      "ideas": 1399
+      "words": 29972,
+      "chars": 166622,
+      "ideas": 1400
     },
     "chapters": {
       "words": 29826,

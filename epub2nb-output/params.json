@@ -7,10 +7,11 @@
       "author": "Alexandra Berková",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-06-09T00:00:00.000Z",
-      "isbn": "978-80-274-1614-1",
+      "isbn": "978-80-274-2608-9",
       "publisherShort": "mkp",
       "contentType": "prose",
-      "subtitle": "Filmová povídka o prostém životním běhu"
+      "subtitle": "Filmová povídka o prostém životním běhu",
+      "edition": "Beletrie"
     },
     "elements": {
       "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
@@ -868,6 +869,6 @@
       "user": "books-are-next",
       "repo": "berkova-banalni-pribeh"
     },
-    "generatedAt": 1658413568237
+    "generatedAt": 1659959774735
   }
 }

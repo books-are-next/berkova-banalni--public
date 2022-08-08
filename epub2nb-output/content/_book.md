@@ -10,10 +10,11 @@ meta:
   author: Alexandra Berková
   publisher: Městská knihovna v Praze
   modified: '2021-06-09T00:00:00.000Z'
-  isbn: 978-80-274-1614-1
+  isbn: 978-80-274-2608-9
   publisherShort: mkp
   contentType: prose
   subtitle: Filmová povídka o prostém životním běhu
+  edition: Beletrie
 readingOrder:
   - promo.html
   - banalni_pribeh_005.html
