@@ -9,8 +9,8 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "berkova-banalni-pribeh-08b5b97",
-  "revision": "08b5b97",
+  "identifier": "berkova-banalni-pribeh-88eb768",
+  "revision": "88eb768",
   "readingOrder": [
     "promo.html",
     "banalni_pribeh_005.html",
@@ -51,8 +51,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Aug 08 2022 11:57:43 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1659959863527
+    "date": "Thu Sep 29 2022 21:18:25 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664486305640
   },
   "documents": [
     {
@@ -771,7 +771,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 140,
-      "chars": 930,
+      "chars": 931,
       "ideas": 17,
       "role": "about",
       "order": null,
@@ -791,7 +791,7 @@
   "totals": {
     "all": {
       "words": 29972,
-      "chars": 166622,
+      "chars": 166623,
       "ideas": 1400
     },
     "chapters": {
