@@ -9,8 +9,8 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "berkova-banalni-pribeh-88eb768",
-  "revision": "88eb768",
+  "identifier": "berkova-banalni-pribeh-5c6e4f8",
+  "revision": "5c6e4f8",
   "readingOrder": [
     "promo.html",
     "banalni_pribeh_005.html",
@@ -51,8 +51,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:18:25 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664486305640
+    "date": "Sat Oct 01 2022 15:47:49 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664639269861
   },
   "documents": [
     {
